@@ -8,7 +8,7 @@ La repository è strutturara così :
 
  -Cartella del corso
 
-\space\space\space -File pdf di una lezione di quel corso ("nome corso - lezione 'n'.pdf").
+ -File pdf di una lezione di quel corso ("nome corso - lezione 'n'.pdf").
 
 Per quanto io cerchi sempre di controllare ciò che scrivo prima di pubblicarlo, è possibile però che alcuni errori non vengano notati (grammaticali, ortografici o concettuali).
 

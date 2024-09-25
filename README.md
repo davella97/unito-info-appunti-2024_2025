@@ -8,6 +8,7 @@ La repository è strutturara così :
 Per quanto io cerchi sempre di controllare ciò che scrivo prima di pubblicarlo, è possibile però che alcuni errori non vengano notati (grammaticali, ortografici o concettuali).
 Detto ciò, in caso notiate tali errori o pensate che si possa integrare qualcosa agli appunti, vi chiedo di aprire un issue.
 Vi chiedo di rispettare questo protocollo per la nominazione degli issue (basta copiare quanto scritto sotto e incollarlo cambiando le parentesi): 
+
 ---
 Name: '(1/2 parole)'
 Corso: '(nome del corso)'

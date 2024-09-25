@@ -6,9 +6,9 @@ Cerco sempre di correggere e sistemare gli appunti il giorno stesso in cui li sc
 
 La repository è strutturara così : 
 
--Cartella del corso
+ -Cartella del corso
 
-  -File pdf di una lezione di quel corso ("nome corso - lezione 'n'.pdf").
+\space\space\space -File pdf di una lezione di quel corso ("nome corso - lezione 'n'.pdf").
 
 Per quanto io cerchi sempre di controllare ciò che scrivo prima di pubblicarlo, è possibile però che alcuni errori non vengano notati (grammaticali, ortografici o concettuali).
 

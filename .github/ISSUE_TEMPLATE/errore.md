@@ -1,11 +1,10 @@
 ---
-name: Errore
-about: Usare questo template in caso si riscontri un errore grammaticale, ortografico
-  o concettuale.
-title: ''
-labels: ''
-assignees: ''
-
+corso: ''
+lezione: ''
+tipo errore: 'ortografico/grammaticale/concettuale'
+gravità: '1-10'
 ---
 
-Prova
+Citazione dell'errore : "(inserire qui)".
+
+Correzione : "(inserire qui)".

@@ -10,11 +10,21 @@ Detto ciò, in caso notiate tali errori o pensate che si possa integrare qualcos
 Vi chiedo di rispettare questo protocollo per la nominazione degli issue (basta copiare quanto scritto sotto e incollarlo cambiando le parentesi): 
 
 ---
-Name: '(1/2 parole)'
-Corso: '(nome del corso)'
-Lezione: '(lezione n)'
-Tipo errore: 'ortografico/grammaticale/concettuale/mancanza'
+Name: '(1/2 parole)' 
+
+
+Corso: '(nome del corso)' 
+
+
+Lezione: '(lezione n)' 
+
+
+Tipo errore: 'ortografico/grammaticale/concettuale/mancanza' 
+
+
 Gravità: '1-10'
+
+
 About: '(descrizione opzionale)'
 ---
 

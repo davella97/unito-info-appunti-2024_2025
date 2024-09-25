@@ -1,4 +1,13 @@
 ---
+name: 'Errore '
+about: Template per sapere come fare un issue
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+---
 Name: '(1/2 parole)'
 Corso: ''
 Lezione: ''

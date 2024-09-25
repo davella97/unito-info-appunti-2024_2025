@@ -14,10 +14,8 @@ Per quanto io cerchi sempre di controllare ciò che scrivo prima di pubblicarlo,
 
 Detto ciò, in caso notiate tali errori o pensate che si possa integrare qualcosa agli appunti, vi chiedo di aprire un issue.
 
-Vi chiedo di rispettare questo protocollo per la nominazione degli issue (basta copiare quanto scritto sotto e incollarlo cambiando le parentesi): 
+Vi chiedo di rispettare questo protocollo per la nominazione degli issue (basta copiare quanto scritto sotto e incollarlo cambiando le parentesi) o di usare il template presente: 
 
----
-Name: '(1/2 parole)' 
 
 Corso: '(nome del corso)' 
 
@@ -26,10 +24,6 @@ Lezione: '(lezione n)'
 Tipo errore: 'ortografico/grammaticale/concettuale/mancanza' 
 
 Gravità: '1-10'
-
-About: '(descrizione opzionale)'
-
----
 
 Citazione dell'errore : "(inserire qui)".
 

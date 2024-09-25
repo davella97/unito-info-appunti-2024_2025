@@ -1,10 +1,10 @@
 ---
-name: ''
-corso: ''
-lezione: ''
-tipo errore: 'ortografico/grammaticale/concettuale'
-gravità: '1-10'
-about: ''
+Name: '(1/2 parole)'
+Corso: ''
+Lezione: ''
+Tipo errore: 'ortografico/grammaticale/concettuale'
+Gravità: '1-10'
+About: '(descrizione opzionale)'
 ---
 
 Citazione dell'errore : "(inserire qui)".

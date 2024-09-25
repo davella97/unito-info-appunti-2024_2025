@@ -12,20 +12,16 @@ Vi chiedo di rispettare questo protocollo per la nominazione degli issue (basta 
 ---
 Name: '(1/2 parole)' 
 
-
 Corso: '(nome del corso)' 
-
 
 Lezione: '(lezione n)' 
 
-
 Tipo errore: 'ortografico/grammaticale/concettuale/mancanza' 
-
 
 Gravità: '1-10'
 
-
 About: '(descrizione opzionale)'
+
 ---
 
 Citazione dell'errore : "(inserire qui)".

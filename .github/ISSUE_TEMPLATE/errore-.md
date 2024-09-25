@@ -1,9 +1,9 @@
 ---
 name: 'Errore '
 about: Template per sapere come fare un issue
-title: ''
-labels: ''
-assignees: ''
+corso: ''
+lezione: ''
+tipo errore: ''
 
 ---
 

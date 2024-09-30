@@ -10,6 +10,8 @@ La repository è strutturara così :
 
  -File pdf di una lezione di quel corso ("nome corso - lezione 'n'.pdf").
 
+Nei commit la flag -a vuol dire che un file è stato aggiornato.
+
 Per quanto io cerchi sempre di controllare ciò che scrivo prima di pubblicarlo, è possibile però che alcuni errori non vengano notati (grammaticali, ortografici o concettuali).
 
 Detto ciò, in caso notiate tali errori o pensate che si possa integrare qualcosa agli appunti, vi chiedo di aprire un issue.
